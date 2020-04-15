@@ -3,11 +3,11 @@
 one:
   first_name: MyString
   last_name: MyString
-  age: 1
+  age: 23
   is_active: false
 
 two:
   first_name: MyString
   last_name: MyString
-  age: 1
-  is_active: false
+  age: 23
+  is_active: true
